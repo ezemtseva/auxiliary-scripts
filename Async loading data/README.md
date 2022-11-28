@@ -1,5 +1,6 @@
-# auxiliary-scripts
-How to load and share a study, samples and associated data via async loading
+#import_ODM_data.py
+
+#How to load and share a study, samples and associated data via async loading
 
 This article explains how to load studies via script and share them with the organisation (via GUI). 
 More information about supported files can be found also in the user guide: https://odm-user-guide.readthedocs.io/en/latest/doc-odm-user-guide/supported-formats.html
