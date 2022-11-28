@@ -3,7 +3,7 @@
 This article explains how to load studies via script and share them with the organisation (via GUI). 
 More information about supported files can be found also in the user guide: https://odm-user-guide.readthedocs.io/en/latest/doc-odm-user-guide/supported-formats.html
 
-____
+
 ## Requirements
 1. The script for loading data:  import_ODM_data.py
 2. All files with object metadata and data are hosted and available via URLs, e.g. http://data_source/study.csv or file:///local_data/data_source/study.csv for the case when you need to load data to ODM from a local machine on which ODM is installed.
