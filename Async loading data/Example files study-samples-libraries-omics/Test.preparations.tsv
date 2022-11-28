@@ -1,0 +1,4 @@
+Sample Source ID	Chromatography	Derivatization	Digestion	Experiment Site	Experiment Instrument	Fractionation	Experiment Type	Quantitation Method	PX Sample Preparation Protocol	Scope	Preparation ID
+SRR6441195|SRR6441188	reversed-phase liquid chromatography	TMT reagent-1	Trypsin	Dynamic Omics	OrbiTrap	3	Proteomics-TMT	TMT quantitation analysis	Protocol1	Discovery	PREP1
+SRR6441196	reversed-phase liquid chromatography	TMT reagent-2	Trypsin	Dynamic Omics	OrbiTrap-2	3	Proteomics-TMT	TMT quantitation analysis	Protocol2	Discovery	PREP2
+SRR6441197	reversed-phase liquid chromatography	TMT reagent-3	Trypsin	Dynamic Omics	OrbiTrap-1	2	Proteomics-TMT	TMT quantitation analysis	Protocol3	Discovery	PREP3

@@ -1,0 +1,4 @@
+Library ID	Sample Source ID	Adapter Sequence Read	Average Fragment Size	Average GC Content	Flow Сell	Library Preparation Protocol	Library Type	Read Length	RIN Value - RNA fragmentation Efficiency	Total Fragments	Experiment Instrument	Experiment Site	Experiment Type	Treatment Concentration	Dose
+LIB1	SRR6441195|SRR6441188	GTCATA	221,69	47	illumina	NGS	Spatial RNA-Seq-1	75	7,5	235304	illumina NextSeq500	Gothenburg	Tx	10	100
+LIB2	SRR6441196	TAGTAA	199,205	47	illumina	NGS	RNA-Seq-1	75	8	177713	illumina NextSeq500	Gothenburg	Tx	10	150
+LIB3	SRR6441197	CGCGAA	200,996	47	illumina	NGS	RNA-Seq-2	75	9	162227	illumina HiSeq500	Mölndal	Tx	10	200
