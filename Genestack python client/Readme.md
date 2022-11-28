@@ -16,7 +16,8 @@ DISCLAIMER: The processes and scripts are intended as a temporary solution until
     ```pip install genestack_client --upgrade ```
 
 2. Obtain a token for the Public user in Genestack by logging in to ODM as the Public user and clicking on the profile link under the Public user name:
-    ![GetToken](Token.png)
+
+   ![GetToken](Token.png)
 
    You will be emailed a link to your token – if using the Public account, you may need to visit the mailcatcher to obtain this link.
 
